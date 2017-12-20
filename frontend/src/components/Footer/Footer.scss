@@ -1,0 +1,22 @@
+@import 'colors';
+
+.footer {
+  height: 40px;
+  width: 100%;
+  margin: 0 auto;
+  clear: both;
+  padding: 15px 4px;
+  color: $gray;
+  background-color: black;
+  z-index: 99;
+
+  .footerLeft {
+    float: left;
+    margin: 0 0 0 25px;
+  }
+  .footerRight {
+    float: right;
+    text-align: right;
+    margin: 0 25px 0 0;
+  }
+}

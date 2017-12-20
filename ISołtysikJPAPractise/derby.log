@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 20 20:14:06 CET 2017:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820) systemu Derby: instancja a816c00e-0160-7558-df1a-00000b5fb3b0
+w katalogu bazy danych memory:D:\Studia\Semestr 5\Bazy danych II\Hibernete\bazy\ISołtysikJPAPractise\testdb sun.misc.Launcher$AppClassLoader@312b1dae 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=D:\Studia\Semestr 5\Bazy danych II\Hibernete\bazy\ISołtysikJPAPractise
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
